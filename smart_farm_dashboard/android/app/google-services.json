@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "486292451670",
+    "firebase_url": "https://farm-310bf-default-rtdb.firebaseio.com",
+    "project_id": "farm-310bf",
+    "storage_bucket": "farm-310bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486292451670:android:877968b790e21b59c6e6f7",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7f4rDPLFnNE2hWtCZbj08bEQUwXhWSRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486292451670:android:3369dc48911be303c6e6f7",
+        "android_client_info": {
+          "package_name": "com.example.smart_farm_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7f4rDPLFnNE2hWtCZbj08bEQUwXhWSRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
